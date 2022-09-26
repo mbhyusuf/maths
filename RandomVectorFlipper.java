@@ -1,21 +1,22 @@
-package mypackage;
 /*
-//Author: Muhammad Baharuddin Yusuf
-//Student number: 2211016210031
-//@baharudddinyusuf
+Author: Muhammad Baharuddin Yusuf
+Student number: 2211016210031
+@baharudddinyusuf
 
     The following codes generate a sequence of "vector-flipping". We define the term 
 "vector-flipping" as the process of recursively transforming a vector that 
 consists of 1s and 0s into "smaller" vector. Here, the term "smaller" is about 
-the binary numbers that the vectors represent. 
-The first vector is randomly generated. 
+the binary numbers that the vectors represent. The first vector is randomly generated. 
+
     I was inspired by the C1 problem from The 2009 International Mathematical 
 Olympiad (IMO) shortlist.
+
     If you tried to run this program, it'd give you the desired sequence, 
 but, you'd likely get some error warnings. 
 But..., well, the main objective of this program is to display the sequence. Therefore, 
 objectively speaking, these codes work fine. 
 */
+
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
