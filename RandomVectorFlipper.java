@@ -58,7 +58,7 @@ class RandomVectorFlipper {
     }
 	
     static ArrayList<Integer> flippy(ArrayList<Integer> v,ArrayList<Integer> ind){
-		
+	//'v' is the vector to be flipped, 'ind' is the indices of 1s of 'v'
 	Random x1 = new Random();
 	int randomIndexOf1;
         randomIndexOf1 = ind.get(x1.nextInt(ind.size()));
