@@ -1,7 +1,7 @@
 /*
 Author: Muhammad Baharuddin Yusuf
 Student number: 2211016210031
-@baharudddinyusuf
+@mbhyusuf
 
     The following codes generate a sequence of "vector-flipping". We define the term 
 "vector-flipping" as the process of recursively transforming a vector that 
